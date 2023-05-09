@@ -27,6 +27,8 @@ The Tuya Smart device is turned on or off based on the humidity and temperature 
 The retry_limit variable controls the number of times the DHT22 sensor is read in case of an error.
 The time.sleep function can be adjusted to control the length of time the Tuya Smart device is turned on or off.
 
+![Smurf Mushroom](https://smurfmushroom.co.uk/wp-content/uploads/2023/01/Smurf_Free_5_variety_of_mushrooms_background_winter_scenario_ve_226282ff-2e64-4b65-a41a-0598f4c1c2a3-600x600.jpg)
+
 We are passionate about growing high-quality mushrooms. We know that controlling the temperature and humidity in our fruiting room is essential for producing the best possible harvest. That's why we have developed a smart system that allows us to monitor and control these conditions with ease.
 
 Our code, which is available on Github, uses an Adafruit DHT sensor to measure temperature and humidity levels. Based on these readings, it sends commands to a Tuya smart device to turn on and off a humidifier or a heater, as needed. This way, we can ensure that the fruiting room stays within the optimal temperature and humidity range at all times.
